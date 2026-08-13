@@ -34,4 +34,4 @@ In G2P and bulk payment flows, the switch knows a beneficiary by their identity,
 
 ## Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) and our [Code of Conduct](CODE_OF_CONDUCT.md).
+See [contributing.md](contributing.md), our [Code of Conduct](CODE_OF_CONDUCT.md) and the [security policy](security.md).
